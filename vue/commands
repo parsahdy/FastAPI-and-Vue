@@ -1,0 +1,7 @@
+install vue cli -> npx @vue/cli create vue-todo-app
+
+cd vue-todo-app
+
+call http and apis from fastapi app -> npm install axios
+
+for vue routre -> npm install vue-router
